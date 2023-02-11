@@ -1,0 +1,17 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "binaryPath": "/usr/bin/make",
+            "binaryArgs": [
+                "flash"
+            ]
+        }
+    ],
+    "files.associations": {
+        "serialmonitor.h": "c",
+        "lcd_i2c.h": "c",
+        "delay.h": "c",
+        "__assert__.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
